@@ -26,5 +26,5 @@
 
   - 🔍 Enter a city name to get weather updates.
   - 🐕 Click a button to get a random dog image.
-  -🎞 Search for a movie title to fetch movie details.
+  - 🎞 Search for a movie title to fetch movie details.
    
